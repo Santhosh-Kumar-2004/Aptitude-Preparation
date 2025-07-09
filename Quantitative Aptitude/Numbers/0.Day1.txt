@@ -1,0 +1,17 @@
+🔢 DAY 1: NUMBERS
+✅ Subtopics Covered in this Lesson:
+➤ Types of Numbers (Done)
+
+➤ Even and Odd Numbers
+
+➤ Prime and Composite Numbers
+
+➤ Co-prime Numbers
+
+➤ Factors and Multiples
+
+➤ Perfect Numbers
+
+➤ Armstrong Numbers
+
+➤ Palindrome Numbers

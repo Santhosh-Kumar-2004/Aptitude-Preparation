@@ -1,0 +1,14 @@
+Subtopics We’ll Cover Today:
+📌 What is HCF (or GCD)?
+
+📌 What is LCM?
+
+🔄 Relationship between LCM and HCF
+
+📘 How they ask it in aptitude tests (types of questions + examples)
+
+💡 Real-life usage
+
+💻 Python programs for HCF & LCM
+
+🧠 Practice questions (optional at end)

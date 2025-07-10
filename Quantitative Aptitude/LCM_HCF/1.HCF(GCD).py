@@ -5,4 +5,10 @@
 # | 8, 14   | 2         | Common factors: 1, 2                          |
 # | 7, 13   | 1         | No common factor except 1 (they are co-prime) |
 
+import math
 
+def hcf(a, b):
+    return math.gcd(a, b)
+
+print(hcf(12, 18)) 
+print(hcf(39, 45))
